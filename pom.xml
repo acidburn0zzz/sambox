@@ -286,7 +286,7 @@
 			<groupId>org.bouncycastle</groupId>
 			<artifactId>bcprov-jdk15on</artifactId>
 			<optional>true</optional>
-			<version>1.56</version>
+			<version>1.67</version>
 		</dependency>
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
